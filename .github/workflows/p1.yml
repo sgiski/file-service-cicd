@@ -1,5 +1,5 @@
 
-ame: p1-컨텍스트
+name: p1-컨텍스트
 on:
   push:
     paths:
